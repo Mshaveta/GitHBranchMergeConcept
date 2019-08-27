@@ -4,6 +4,10 @@ public class Pattern {
 		System.out.print ("method2");
 	}
 
+	public void m3(){
+		System.out.print ("method3");
+	}
+	
 	public static void main(String[] args) {
 		
 		int printNum=1;
