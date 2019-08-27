@@ -4,8 +4,8 @@ public class Pattern {
 		System.out.print ("method2");
 	}
 	
-	public void m3(){
-		System.out.print ("method3");
+	public void m4(){
+		System.out.print ("method4");
 	}
 
 	public static void main(String[] args) {
